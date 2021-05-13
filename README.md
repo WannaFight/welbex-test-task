@@ -41,3 +41,8 @@ DATABASES = {
 
 ## Result
 ![alt](https://drive.google.com/uc?export=view&id=1Y3XdiJk1uu_o494PPc902j-_ClAlue9o)
+
+## Summary
+1. Set PostgreSQL on local machine ✅
+2. Created simple Django app and database filler ✅
+3. AJAX (but I tried) ❌
