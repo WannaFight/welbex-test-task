@@ -38,3 +38,6 @@ DATABASES = {
 (venv) ~$ ./manage.py makemigrations && ./manage.py migrate
 (venv) ~$ ./manage.py runserver
 ```
+
+## Result
+![alt](https://drive.google.com/uc?export=view&id=1Y3XdiJk1uu_o494PPc902j-_ClAlue9o)
